@@ -1,0 +1,9 @@
+.backups
+.cache
+.conda
+.mambaforge
+.metaflow
+.openvscode-server
+.vscode
+.vscode-server
+.flows
